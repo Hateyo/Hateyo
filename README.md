@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hateyo&show_icons=true&locale=en&layout=compact" alt="hateyo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hateyo&show_icons=true&locale=en" alt="hateyo" /></p>
-### My Private Repo Activity
-![Private Commits](https://img.shields.io/badge/dynamic/json?label=Private%20Commits&query=total_commits&url=https://api.github-star-counter.workers.dev/user/Hateyo?type=private)
